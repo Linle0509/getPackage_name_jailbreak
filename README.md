@@ -1,0 +1,2 @@
+# getPackage_name_jailbreak
+通过ssh传输出来的越狱数据包，获取应用包名与文件夹的对应关系
